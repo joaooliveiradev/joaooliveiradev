@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Grokking Algorithms](https://github.com/joaooliveiradev/grokking-algorithms)**
+- 🔭 I’m currently working on **[Grokking Algorithms](https://github.com/joaooliveiradev/grokking-algorithms) and [SocialNetwork](https://github.com/joaooliveiradev/socialnetwork-frontend)**
 
 - 🌱 I’m currently learning **React, Typescript and Node.**
 
