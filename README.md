@@ -28,8 +28,8 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/joaooliveiradev"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/__oliveirajv1/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/joaooliveiradev"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/__oliveirajv1/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
